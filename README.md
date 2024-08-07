@@ -3,19 +3,23 @@
 Amazon Prime Data Analysis using Power BI
 
 Overview
+
 This project involves analyzing Amazon Prime data using Power BI. The goal is to extract valuable insights regarding user engagement, subscription trends, and content consumption patterns.
 
 Objectives
+
 Clean and prepare Amazon Prime data for analysis.
 Create interactive dashboards to visualize subscription metrics.
 Identify user engagement patterns and content preferences.
 Provide actionable insights to enhance user experience and subscription growth.
 
 Tools and Technologies
+
 Power BI: Used for data visualization and dashboard creation.
 Excel/CSV: Source of Amazon Prime data.
 
 Key Features
+
 Subscription Dashboard: Visualizes subscription growth, churn rate, and user demographics.
 Engagement Analysis: Analyzes viewing patterns, average watch time, and peak usage periods.
 Content Insights: Highlights most-watched shows and movies, genre popularity, and new releases.
@@ -28,4 +32,5 @@ Dashboard Creation: Developed interactive dashboards to display key insights.
 Analysis: Conducted in-depth analysis to uncover trends and patterns in user behavior and content consumption.
 
 Conclusion
+
 This project showcases the capability of data visualization to improve understanding of Amazon Prime user behavior and subscription dynamics. The Power BI dashboards provide a detailed view of user engagement and content performance, enabling better decision-making to enhance the user experience and drive subscription growth.
